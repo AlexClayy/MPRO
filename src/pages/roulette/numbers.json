@@ -1,0 +1,152 @@
+{
+    "numbers": [
+        {
+            "num": 0,
+            "color": "greenN"
+        },
+        {
+            "num": 32,
+            "color": "redN"
+        },
+        {
+            "num": 15,
+            "color": "blackN"
+        },
+        {
+            "num": 19,
+            "color": "redN"
+        },
+        {
+            "num": 4,
+            "color": "blackN"
+        },
+        {
+            "num": 21,
+            "color": "redN"
+        },
+        {
+            "num": 2,
+            "color": "blackN"
+        },
+        {
+            "num": 25,
+            "color": "redN"
+        },
+        {
+            "num": 17,
+            "color": "blackN"
+        },
+        {
+            "num": 34,
+            "color": "redN"
+        },
+        {
+            "num": 6,
+            "color": "blackN"
+        },
+        {
+            "num": 27,
+            "color": "redN"
+        },
+        {
+            "num": 13,
+            "color": "blackN"
+        },
+        {
+            "num": 36,
+            "color": "redN"
+        },
+        {
+            "num": 11,
+            "color": "blackN"
+        },
+        {
+            "num": 30,
+            "color": "redN"
+        },
+        {
+            "num": 8,
+            "color": "blackN"
+        },
+        {
+            "num": 23,
+            "color": "redN"
+        },
+        {
+            "num": 10,
+            "color": "blackN"
+        },
+        {
+            "num": 5,
+            "color": "redN"
+        },
+        {
+            "num": 24,
+            "color": "blackN"
+        },
+        {
+            "num": 16,
+            "color": "redN"
+        },
+        {
+            "num": 33,
+            "color": "blackN"
+        },
+        {
+            "num": 1,
+            "color": "redN"
+        },
+        {
+            "num": 20,
+            "color": "blackN"
+        },
+        {
+            "num": 14,
+            "color": "redN"
+        },
+        {
+            "num": 31,
+            "color": "blackN"
+        },
+        {
+            "num": 9,
+            "color": "redN"
+        },
+        {
+            "num": 22,
+            "color": "blackN"
+        },
+        {
+            "num": 18,
+            "color": "redN"
+        },
+        {
+            "num": 29,
+            "color": "blackN"
+        },
+        {
+            "num": 7,
+            "color": "redN"
+        },
+        {
+            "num": 28,
+            "color": "blackN"
+        },
+        {
+            "num": 12,
+            "color": "redN"
+        },
+        {
+            "num": 35,
+            "color": "blackN"
+        },
+        {
+            "num": 3,
+            "color": "redN"
+        },
+        {
+            "num": 26,
+            "color": "blackN"
+        }
+    ]
+}

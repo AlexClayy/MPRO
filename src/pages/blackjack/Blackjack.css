@@ -1,0 +1,38 @@
+.gameboard {
+    background-image: url('../../images/felt-background.jpg');
+    border: 5px solid black;
+    border-radius: 5px;
+    padding: 15px;
+    box-shadow: 3px 3px 5px 6px #ccc;
+    text-align: center;
+    color: white;
+    min-width: 50vw;
+}
+
+.card-spot {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.buttons {
+    padding: 10px;
+}
+
+.buttons>label {
+    margin-right: 10px;
+}
+
+.buttons>input {
+    margin-right: 10px;
+    width: 100px;
+}
+
+.buttons>Button {
+    margin-right: 10px;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+}
